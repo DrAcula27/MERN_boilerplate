@@ -1,7 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+  // test routing
+  const testFunc = async () => {
+    const response = await fetch("/test_route");
+    console.log(response);
+  };
+  testFunc();
+
   return (
     <div className="App">
       <header className="App-header">

@@ -23,6 +23,11 @@ app.use(express.static(path.join(__dirname, "build")));
 
 // ROUTES
 
+// test route
+app.get("/test_route", (req, res) => {
+  res.send("test route");
+});
+
 // catch-all route, must be last in route list
 app.get("/*", (req, res) => {
   res.sendFile(path.join(__dirname, "build", "index.html"));
