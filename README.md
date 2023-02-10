@@ -11,9 +11,9 @@
 
 ## Demo
 
-![demo gif](./public/assets/demo.gif)
+![demo](./public/assets/demo.png)
 
-### 🏠 [Homepage](https://github.com/DrAcula27/productStore#readme)
+### 🏠 [Homepage](https://github.com/DrAcula27/MERN_boilerplate#readme)
 
 ## Author
 
