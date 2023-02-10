@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+<h1 align="center">Welcome to MERN_boilerplate!</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/npm-%3E%3D9.1.2-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D18.12.1-blue.svg" />
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Lorem ipsum
+
+> Lorem ipsum
+
+## Demo
+
+![demo gif](./public/assets/demo.gif)
+
+### 🏠 [Homepage](https://github.com/DrAcula27/productStore#readme)
+
+## Author
+
+👤 **Danielle Andrews**
+
+- Github: [@DrAcula27](https://github.com/DrAcula27)
+- LinkedIn: [@daniellerandrews](https://linkedin.com/in/daniellerandrews)
+
+## Project Details
+
+**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
 ## Available Scripts
 
@@ -68,3 +92,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Tech Stack
+
+This project uses the MERN stack.
+
+- **M** - <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" width="20" height="20" /> [MongoDB](https://www.mongodb.com/)
+- **E** - <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/favicon.png" width="20" height="20" /> [Express](https://expressjs.com/)
+- **R** - <img src="https://raw.githubusercontent.com/facebook/react/main/fixtures/attribute-behavior/public/favicon.ico" width="20" height="20" />[React](https://reactjs.org/)
+- **N** - <img src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/static/images/logos/js-green.svg" width="20" height="20" /> [Node](https://nodejs.org/en/)
+
+## Future Work
+
+-
+
+## Attributions
+
+-
+
+## Show Your Support
+
+Give a ⭐️ if you liked this project!
