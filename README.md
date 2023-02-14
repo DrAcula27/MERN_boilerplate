@@ -97,10 +97,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This project uses the MERN stack.
 
-- **M** - [MongoDB](https://www.mongodb.com/) <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" width="20" height="20" />
-- **E** - [Express](https://expressjs.com/) <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/favicon.png" width="20" height="20" />
-- **R** - [React](https://reactjs.org/) <img src="https://raw.githubusercontent.com/facebook/react/main/fixtures/attribute-behavior/public/favicon.ico" width="20" height="20" />
-- **N** - [Node](https://nodejs.org/en/) <img src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/static/images/logos/js-green.svg" width="20" height="20" />
+- **M** - <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" width="20" height="20" /> [MongoDB](https://www.mongodb.com/)
+- **E** - <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/favicon.png" width="20" height="20" /> [Express](https://expressjs.com/)
+- **R** - <img src="https://raw.githubusercontent.com/facebook/react/main/fixtures/attribute-behavior/public/favicon.ico" width="20" height="20" /> [React](https://reactjs.org/)
+- **N** - <img src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/static/images/logos/js-green.svg" width="20" height="20" /> [Node](https://nodejs.org/en/)
 
 ## Future Work
 
